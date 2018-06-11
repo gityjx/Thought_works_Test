@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 新建 Microsoft Visio Drawing.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.88768in" height="5.712in"
+		viewBox="0 0 351.913 411.264" xml:space="preserve" color-interpolation-filters="sRGB" class="st9">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:宋体;font-size:0.833336em}
+		.st3 {font-size:1em}
+		.st4 {marker-end:url(#mrkr13-17);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st6 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st7 {fill:#000000;font-family:宋体;font-size:0.666664em}
+		.st8 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-17" class="st5" v:arrowType="13" v:arrowSize="2" v:setback="13.08" refX="-13.08" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-4.36,-4.36) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape6-1" v:mID="6" v:groupContext="shape" transform="translate(5.43496,-389.884)">
+			<title>矩形</title>
+			<desc>输入</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="24.8032" cy="400.634" width="49.61" height="21.2598"/>
+			<rect x="0" y="390.004" width="49.6063" height="21.2598" class="st1"/>
+			<text x="14.8" y="403.63" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>输入</text>		</g>
+		<g id="shape7-4" v:mID="7" v:groupContext="shape" transform="translate(0.12,-326.104)">
+			<title>矩形.7</title>
+			<desc>对输入做格式验证</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="5.12" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>对输入做格<tspan x="15.12"
+						dy="1.2em" class="st3">式验证</tspan></text>		</g>
+		<g id="shape10-8" v:mID="10" v:groupContext="shape" transform="translate(102.876,-326.104)">
+			<title>矩形.10</title>
+			<desc>抛出警告或者异常</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="5.12" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>抛出警告或<tspan x="15.12"
+						dy="1.2em" class="st3">者异常</tspan></text>		</g>
+		<g id="shape11-12" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(23.1515,-389.884)">
+			<title>动态连接线</title>
+			<path d="M7.09 411.26 L7.09 429.8" class="st4"/>
+		</g>
+		<g id="shape12-18" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(60.3562,-336.734)">
+			<title>动态连接线.12</title>
+			<desc>符合</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="404.177" width="40" height="17.6036"/>
+			<path d="M0 404.18 L32.71 404.18" class="st4"/>
+			<rect v:rectContext="textBkgnd" x="13.2599" y="399.377" width="15.9999" height="9.59985" class="st6"/>
+			<text x="13.26" y="406.58" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>符合</text>		</g>
+		<g id="shape13-25" v:mID="13" v:groupContext="shape" transform="translate(0.12,-262.325)">
+			<title>矩形.13</title>
+			<desc>判断是不是取消订单</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="5.12" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>判断是不是<tspan x="10.12"
+						dy="1.2em" class="st3">取消订单</tspan></text>		</g>
+		<g id="shape14-29" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(23.1515,-326.104)">
+			<title>动态连接线.14</title>
+			<desc>不符合</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="425.437" width="40" height="17.6036"/>
+			<path d="M7.09 411.26 L7.09 439.61" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-4.91342" y="420.637" width="23.9999" height="9.59985" class="st6"/>
+			<text x="-4.91" y="427.84" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>不符合</text>		</g>
+		<g id="shape15-34" v:mID="15" v:groupContext="shape" transform="translate(102.876,-262.325)">
+			<title>矩形.15</title>
+			<desc>找到对应的预定集合</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="5.12" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>找到对应的<tspan x="10.12"
+						dy="1.2em" class="st3">预定集合</tspan></text>		</g>
+		<g id="shape16-38" v:mID="16" v:groupContext="shape" transform="translate(187.915,-262.325)">
+			<title>矩形.16</title>
+			<desc>判断是否有该订单</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="5.12" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>判断是否有<tspan x="15.12"
+						dy="1.2em" class="st3">该订单</tspan></text>		</g>
+		<g id="shape17-42" v:mID="17" v:groupContext="shape" transform="translate(291.557,-262.325)">
+			<title>矩形.17</title>
+			<desc>报错没有这个订单</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="5.12" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>（报错）没<tspan x="5.12"
+						dy="1.2em" class="st3">有这个订单</tspan></text>		</g>
+		<g id="shape18-46" v:mID="18" v:groupContext="shape" transform="translate(0.12,-191.459)">
+			<title>矩形.18</title>
+			<desc>找到订单对应的订单组</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="5.12" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>找到订单对<tspan x="5.12"
+						dy="1.2em" class="st3">应的订单组</tspan></text>		</g>
+		<g id="shape19-50" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(60.3562,-272.955)">
+			<title>动态连接线.19</title>
+			<desc>是</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="404.177" width="40" height="17.6036"/>
+			<path d="M0 404.18 L32.71 404.18" class="st4"/>
+			<rect v:rectContext="textBkgnd" x="17.2598" y="399.377" width="7.99997" height="9.59985" class="st6"/>
+			<text x="17.26" y="406.58" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>是</text>		</g>
+		<g id="shape20-57" v:mID="20" v:groupContext="shape" v:layerMember="0" transform="translate(163.112,-272.955)">
+			<title>动态连接线.20</title>
+			<path d="M0 404.18 L14.99 404.18" class="st4"/>
+		</g>
+		<g id="shape22-62" v:mID="22" v:groupContext="shape" v:layerMember="0" transform="translate(23.1515,-262.325)">
+			<title>动态连接线.22</title>
+			<desc>不是</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="428.98" width="40" height="17.6036"/>
+			<path d="M7.09 411.26 L7.09 436.89" class="st4"/>
+			<rect v:rectContext="textBkgnd" x="-0.913294" y="424.18" width="15.9999" height="9.59985" class="st6"/>
+			<text x="-0.91" y="431.38" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>不是</text>		</g>
+		<g id="shape24-69" v:mID="24" v:groupContext="shape" transform="translate(179.057,-326.104)">
+			<title>矩形.24</title>
+			<desc>删除订单 同时在删除组中添加该订单</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.9764" cy="393.547" width="77.96" height="35.4331"/>
+			<rect x="0" y="375.831" width="77.9528" height="35.4331" class="st1"/>
+			<text x="18.98" y="384.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>删除订单<v:newlineChar/><tspan
+						x="8.98" dy="1.2em" class="st3">同时在删除组</tspan><tspan x="8.98" dy="1.2em" class="st3">中添加该订单</tspan></text>		</g>
+		<g id="shape28-74" v:mID="28" v:groupContext="shape" v:layerMember="0" transform="translate(210.947,-297.758)">
+			<title>动态连接线.28</title>
+			<desc>有</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="397.09" width="40" height="17.6036"/>
+			<path d="M7.09 411.26 L7.09 392.73" class="st4"/>
+			<rect v:rectContext="textBkgnd" x="3.08655" y="392.291" width="7.99997" height="9.59985" class="st6"/>
+			<text x="3.09" y="399.49" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>有</text>		</g>
+		<g id="shape29-81" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(248.151,-272.955)">
+			<title>动态连接线.29</title>
+			<desc>没有</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.7028" cy="404.177" width="40" height="17.6036"/>
+			<path d="M0 404.18 L33.6 404.18" class="st4"/>
+			<rect v:rectContext="textBkgnd" x="13.7029" y="399.377" width="15.9999" height="9.59985" class="st6"/>
+			<text x="13.7" y="406.58" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>没有</text>		</g>
+		<g id="shape30-88" v:mID="30" v:groupContext="shape" transform="translate(0.12,-127.679)">
+			<title>矩形.30</title>
+			<desc>查看是否有订单冲突</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="5.12" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>查看是否有<tspan x="10.12"
+						dy="1.2em" class="st3">订单冲突</tspan></text>		</g>
+		<g id="shape31-92" v:mID="31" v:groupContext="shape" transform="translate(102.876,-127.679)">
+			<title>矩形.31</title>
+			<desc>报错订单冲突</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="5.12" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>（报错）订<tspan x="15.12"
+						dy="1.2em" class="st3">单冲突</tspan></text>		</g>
+		<g id="shape32-96" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(23.1515,-191.459)">
+			<title>动态连接线.32</title>
+			<path d="M7.09 411.26 L7.09 429.8" class="st4"/>
+		</g>
+		<g id="shape33-101" v:mID="33" v:groupContext="shape" v:layerMember="0" transform="translate(60.3562,-138.309)">
+			<title>动态连接线.33</title>
+			<desc>无</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="404.177" width="40" height="17.6036"/>
+			<path d="M0 404.18 L32.71 404.18" class="st4"/>
+			<rect v:rectContext="textBkgnd" x="17.2598" y="399.377" width="7.99997" height="9.59985" class="st6"/>
+			<text x="17.26" y="406.58" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>无</text>		</g>
+		<g id="shape34-108" v:mID="34" v:groupContext="shape" transform="translate(0.12,-63.8995)">
+			<title>矩形.34</title>
+			<desc>添加订单到组中</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="5.12" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>添加订单到<tspan x="20.12"
+						dy="1.2em" class="st3">组中</tspan></text>		</g>
+		<g id="shape42-112" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(23.1515,-127.679)">
+			<title>动态连接线.42</title>
+			<desc>有</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="7.08661" cy="425.437" width="40" height="17.6036"/>
+			<path d="M7.09 411.26 L7.09 429.8" class="st4"/>
+			<rect v:rectContext="textBkgnd" x="3.08655" y="420.637" width="7.99997" height="9.59985" class="st6"/>
+			<text x="3.09" y="427.84" class="st7" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>有</text>		</g>
+		<g id="shape43-119" v:mID="43" v:groupContext="shape" transform="translate(102.876,-63.8995)">
+			<title>矩形.43</title>
+			<desc>正/反订单查询</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="7.62" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>正/反订单<tspan x="20.12"
+						dy="1.2em" class="st3">查询</tspan></text>		</g>
+		<g id="shape44-123" v:mID="44" v:groupContext="shape" transform="translate(0.12,-0.12)">
+			<title>矩形.44</title>
+			<desc>金额查询和汇总</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.1181" cy="393.547" width="60.24" height="35.4331"/>
+			<rect x="0" y="375.831" width="60.2362" height="35.4331" class="st1"/>
+			<text x="5.12" y="390.55" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>金额查询和<tspan x="20.12"
+						dy="1.2em" class="st3">汇总</tspan></text>		</g>
+		<g id="shape45-127" v:mID="45" v:groupContext="shape" v:layerMember="0" transform="translate(60.3562,-74.5295)">
+			<title>动态连接线.45</title>
+			<path d="M0 404.18 L32.71 404.18" class="st4"/>
+		</g>
+		<g id="shape46-132" v:mID="46" v:groupContext="shape" v:layerMember="0" transform="translate(23.1515,-63.8995)">
+			<title>动态连接线.46</title>
+			<path d="M7.09 411.26 L7.09 429.8" class="st4"/>
+		</g>
+	</g>
+</svg>

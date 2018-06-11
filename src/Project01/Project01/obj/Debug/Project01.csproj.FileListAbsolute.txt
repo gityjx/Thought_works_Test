@@ -1,0 +1,6 @@
+F:\code\thoughtworks\C_sharp\Project01\Project01\Project01\bin\Debug\Project01.exe.config
+F:\code\thoughtworks\C_sharp\Project01\Project01\Project01\bin\Debug\Project01.exe
+F:\code\thoughtworks\C_sharp\Project01\Project01\Project01\bin\Debug\Project01.pdb
+F:\code\thoughtworks\C_sharp\Project01\Project01\Project01\obj\Debug\Project01.csprojResolveAssemblyReference.cache
+F:\code\thoughtworks\C_sharp\Project01\Project01\Project01\obj\Debug\Project01.exe
+F:\code\thoughtworks\C_sharp\Project01\Project01\Project01\obj\Debug\Project01.pdb

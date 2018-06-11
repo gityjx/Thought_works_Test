@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 程序主类图.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="4.41632in" height="2.52302in"
+		viewBox="0 0 317.975 181.657" xml:space="preserve" color-interpolation-filters="sRGB" class="st7">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:Symbol;font-size:0.833336em}
+		.st3 {font-size:1em}
+		.st4 {font-family:宋体;font-size:1em}
+		.st5 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st6 {fill:#000000;font-family:宋体;font-size:1.16666em}
+		.st7 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape41-1" v:mID="41" v:groupContext="shape" transform="translate(0.375,-147.522)">
+			<title>矩形.41</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="147.642" width="317.48" height="34.0157" class="st1"/>
+		</g>
+		<g id="shape38-3" v:mID="38" v:groupContext="shape" transform="translate(0.375,-0.12)">
+			<title>矩形.35</title>
+			<desc>属性 预定订单List 取消订单List 方法 判断输入格式ValidationFormat 判断是否有订单冲突Judge...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="158.74" cy="107.957" width="317.49" height="147.402"/>
+			<rect x="0" y="34.2557" width="317.48" height="147.402" class="st1"/>
+			<text x="4" y="48.13" class="st2" v:langID="2052"><v:paragraph v:indentFirst="-18" v:indentLeft="18" v:bullet="1"/><v:tabList/><tspan
+						class="st3" v:isBullet="true">·</tspan> <tspan class="st4">属性<v:newlineChar/></tspan><tspan x="4"
+						dy="1.316em" class="st3" v:isBullet="true">·</tspan> <tspan dx="2.452em" class="st4">预定订单</tspan><tspan
+						class="st4">List<v:newlineChar/></tspan><tspan x="4" dy="1.316em" class="st3" v:isBullet="true">·</tspan> <tspan
+						dx="2.452em" class="st4">取消订单</tspan><tspan class="st4">List<v:tabChar/><v:newlineChar/><v:paragraph/><v:newlineChar/><v:paragraph
+							v:indentFirst="-18" v:indentLeft="18" v:bullet="1"/></tspan><tspan x="4" dy="2.516em" class="st3"
+						v:isBullet="true">·</tspan> <tspan class="st4">方法<v:newlineChar/></tspan><tspan x="4" dy="1.316em"
+						class="st3" v:isBullet="true">·</tspan> <tspan dx="2.452em" class="st4">判断输入格式</tspan><tspan class="st4">（</tspan><tspan
+						class="st4">ValidationFormat</tspan><tspan class="st4">）<v:newlineChar/></tspan><tspan x="4" dy="1.316em"
+						class="st3" v:isBullet="true">·</tspan> <tspan dx="2.452em" class="st4">判断是否有订单冲突</tspan><tspan class="st4">（</tspan><tspan
+						class="st4">JudgeCollide</tspan><tspan class="st4">）<v:newlineChar/></tspan><tspan x="4" dy="1.316em"
+						class="st3" v:isBullet="true">·</tspan> <tspan dx="2.452em" class="st4">正常订单和取消订单查询函数<v:newlineChar/></tspan><tspan
+						x="4" dy="1.316em" class="st3" v:isBullet="true">·</tspan> <tspan dx="2.452em" class="st4">求每比订单的金额和违约金<v:newlineChar/></tspan><tspan
+						x="4" dy="1.316em" class="st3" v:isBullet="true">·</tspan> <tspan dx="2.452em" class="st4">其他相关函数</tspan><tspan
+						class="st4"> </tspan><tspan class="st4">etc.</tspan><v:newlineChar/><v:paragraph/><v:tabChar/><v:tabChar/></text>		</g>
+		<g id="shape39-34" v:mID="39" v:groupContext="shape" transform="translate(0.375,-159.529)">
+			<title>工作表.39</title>
+			<desc>订单管理类</desc>
+			<v:textBlock v:margins="rect(1,1,1,1)" v:tabSpace="42.5197"/>
+			<v:textRect cx="49" cy="176.657" width="98.01" height="10"/>
+			<rect x="0" y="171.657" width="98" height="10" class="st5"/>
+			<text x="14" y="180.86" class="st6" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>订单管理类</text>		</g>
+	</g>
+</svg>
